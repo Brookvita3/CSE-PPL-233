@@ -1,7 +1,7 @@
 # CSE-PPL-233
-Môn Nguyên lý ngôn ngữ lập trình - Trường Đại học Bách Khoa HCM học kì 233
+BTL Môn Nguyên lý ngôn ngữ lập trình - Trường Đại học Bách Khoa HCM học kì 233
 
-# Tables of Contents
+# Contents
 
 ### Assignments
 Ở học kỳ này, sinh viên được yêu cầu xây dựng compiler cho ngôn ngữ MT22 được đặc tả theo file mt22-spec-v.1.1.pdf
