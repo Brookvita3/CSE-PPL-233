@@ -1,4 +1,4 @@
-# CSE-PPL-233
+# Principles-of-Programming-Languages-233
 BTL Môn Nguyên lý ngôn ngữ lập trình - Trường Đại học Bách Khoa HCM học kì 233
 
 # Contents
